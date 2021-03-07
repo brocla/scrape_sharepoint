@@ -1,6 +1,6 @@
 # scrape_sharepoint
 
-An example script that shows how to:
+An example python script that shows how to:
 
 Scrape a SharePoint to get a data List, using a Windows machine, in a corporate environment.
 
